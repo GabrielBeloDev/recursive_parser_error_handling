@@ -54,7 +54,7 @@ The **Context-Free Grammar (CFG)** for arithmetic expressions is defined as:
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gabriel-Bastos-Rabelo/recursive-parser-error-handling.git
+   git clone [https://github.com/Gabriel-Bastos-Rabelo/recursive-parser-error-handling.git](https://github.com/GabrielBeloDev/recursive_parser_error_handling)
    cd recursive-parser-error-handling
    ```
 2. Execute the script:
@@ -110,6 +110,6 @@ Syntax Error: Expected 'NUM'. Current token: 'string'
 ---
 
 ## **Contributors**
-Developed by Gabriel Bastos Rabelo, Gabriel Belo Pereira dos Reis, João Felipe Launé Assunção.
+Developed by Gabriel Belo Pereira dos Reis, Gabriel Bastos Rabelo, João Felipe Launé Assunção.
 
 Feel free to submit issues, suggest improvements, or fork the repository for your own experiments!
