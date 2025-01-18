@@ -7,7 +7,7 @@ This repository contains a **Recursive Descent Parser** implementation with erro
 ## **Repository Details**
 
 ### Repository Name:  
-`recursive-parser-error-handling`
+`recursive_parser_error_handling`
 
 ### Description:  
 A Python implementation of a Recursive Descent Parser for arithmetic expressions with panic mode error handling, built for educational purposes.
